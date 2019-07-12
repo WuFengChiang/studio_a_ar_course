@@ -9,3 +9,4 @@
 - [第二堂課：Swift 的程序導向語言特性](https://www.slideshare.net/secret/BtZwe1hGeqdjzi)
 - [第三堂課：Swift 在 OOP 與 POP 上的支援](https://www.slideshare.net/secret/N5KvB1c2GpUPXQ)
 - [第四堂課：Swift (Property, Closure, Enum, Error handling)](https://www.slideshare.net/secret/1V5VMjmO7rdOY3)
+- [第五堂課：iOS 啟動機制 & UIKit](https://www.slideshare.net/secret/uTZ2saaAWCVKZZ)
